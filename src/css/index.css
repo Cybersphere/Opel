@@ -7,6 +7,11 @@
 @import "helpers/global.css";
 
 
+/* Main blocks */
+
+@import "blocks/page.css";
+@import "blocks/wrapper.css";
+
 
 
 

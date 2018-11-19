@@ -1,39 +1,26 @@
 @font-face {
-  font-family: Muller;
-  src: url("../resources/fonts/MullerBold.woff2") format("woff2"),
-    url("../resources/fonts/MullerBold.woff2") format("woff");
+  font-family: RussoOne;
+  src: url("../resources/fonts/RussoOne-Regular.woff2") format("woff2"),
+  url("../resources/fonts/RussoOne-Regular.ttf") format("ttf"),
+  url("../resources/fonts/RussoOne-Regular.woff2") format("woff");
   font-display: swap;
   font-weight: 700;
 }
 
 @font-face {
-  font-family: Muller;
-  src: url("../resources/fonts/MullerRegular.woff2") format("woff2"),
-    url("../resources/fonts/MullerRegular.woff2") format("woff");
+  font-family: Exo2;
+  src: url("../resources/fonts/Exo2-Regular.woff2") format("woff2"),
+  url("../resources/fonts/Exo2-Regular.ttf") format("ttf"),
+  url("../resources/fonts/Exo2-Regular.woff2") format("woff");
   font-display: swap;
   font-weight: 400;
 }
 
 @font-face {
-  font-family: Muller;
-  src: url("../resources/fonts/MullerMedium.woff2") format("woff2"),
-    url("../resources/fonts/MullerMedium.woff2") format("woff");
+  font-family: Exo2;
+  src: url("../resources/fonts/Exo2-Bold.woff2") format("woff2"),
+  url("../resources/fonts/Exo2-Bold.ttf") format("ttf"),
+  url("../resources/fonts/Exo2-Bold.woff2") format("woff");
   font-display: swap;
-  font-weight: 500;
-}
-
-@font-face {
-  font-family: PTSerif;
-  src: url("../resources/fonts/PTSerifRegular.woff2") format("woff2"),
-    url("../resources/fonts/PTSerifRegular.woff2") format("woff");
-  font-display: swap;
-  font-weight: 400;
-}
-
-@font-face {
-  font-family: PTMono;
-  src: url("../resources/fonts/PTMono.woff2") format("woff2"),
-    url("../resources/fonts/PTMono.woff2") format("woff");
-  font-display: swap;
-  font-weight: 400;
+  font-weight: 700;
 }

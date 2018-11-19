@@ -1,0 +1,17 @@
+.page {
+	min-height: 100vh;
+	margin: 0;
+	padding: 0;
+	color: var(--heading-color);
+	background-color: var(--white-color);
+	font-family: var(--primary-font);
+	font-size: 18px;
+	line-height: 22px;
+}
+
+.page__wrapper {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	overflow-x: hidden;
+}
