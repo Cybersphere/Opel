@@ -1,0 +1,33 @@
+.social {
+	display: flex;
+}
+
+.social__title {
+	font-size: 16px;
+	line-height: 1;
+	color: #C4C4C4;
+	align-items: center;
+	margin-right: 15px;
+}
+
+.social__item {
+	color: #C4C4C4;
+	width: 20px;
+	height: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	&:not(:last-child) {
+		margin-right: 30px;
+	}
+}
+
+.social__list {
+	display: flex;
+	align-items: center;
+}
+
+.social__item:hover {
+	color: var(--orange-color);
+}

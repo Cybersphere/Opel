@@ -1,0 +1,10 @@
+.header {
+	display: flex;
+	flex-direction: column;
+}
+
+.header__logo {
+	display: flex;
+	align-items: center;
+	margin-right: 75px;
+}

@@ -11,6 +11,12 @@
 
 @import "blocks/page.css";
 @import "blocks/wrapper.css";
+@import "blocks/header.css";
+@import "blocks/header-top.css";
+
+/* Small blocks */
+
+@import "blocks/social.css";
 
 
 
